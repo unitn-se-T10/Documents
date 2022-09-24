@@ -1,6 +1,11 @@
 # Indice
-
 <!-- TO DO -->
+1. Scopo del documento
+2. Obiettivi del progetto
+3. Requisiti Funzionali
+4. Requisiti Non Funzionali
+5. Front-End
+6. Back-End
 
 # Scopo del documento
 
@@ -19,4 +24,18 @@ Nello specifico <!-- NOME PROGETTO --> deve permettere i seguenti scenari:
 - Autenticare l'utente attraverso le principali piattaforme di login, ad esempio Google o Facebook.
 - Visualizzare su ogni ristorante una piccola descrizione contenente orari di apertura, indirizzo, numero di telefono e menù.
 - Lasciar visualizzare all'utente anonimo le informazioni base di ogni ristornate. Per la prenotazione online dei tavoli è obbligatorio essere registrati
-- I responsabili del ristorante devono autenticarsi con un login dedicato a loro, così da immetere a mano le prenotazioni dei tavoli eseguite via telefono
+- I responsabili del ristorante devono autenticarsi con un login dedicato a loro, così da immetere a mano le prenotazioni dei tavoli eseguite via telefono.
+- Per quei ristoranti che lo permettono ordinare cibi dal proprio menù con ritiro in loco. È possibile una modifica parziale agli ingredienti così da venir incontro ai fabbisogni dei clienti con allergie.
+
+# Requisiti Funzionali
+
+<!-- Elenchi di funzionalità o servizi che il sistema deve fornire. 
+Descrivono anche il comportamento del sistema a fronte di particolari input e come esso dovrebbe reagire in determinate situazioni -->
+
+# Requisiti Non Funzionali
+
+<!-- I requisiti non funzionali sono tutte quelle caratteristiche del software non richieste dal cliente, ma che influenzano pesantemente il lavoro degli sviluppatori, poiché non descrivono cosa, ma come il sistema fa ad eseguire certi compiti -->
+
+# Front-End
+
+# Back-End
