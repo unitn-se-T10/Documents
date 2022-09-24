@@ -28,7 +28,7 @@ Tasto di ricerca con cui puoi cercare il ristorante in base a:
 
 Premendo su un ristorante vai alla pagina dettagli -> All'interno c'è la pagina menù -> Per chi aderisce prenotazione tavoli
 
-**DA CHIEDERE -> implemetazione parte dei paini**
+**DA CHIEDERE -> implemetazione parte dei panini**
 
 ### PranzoTN
 
