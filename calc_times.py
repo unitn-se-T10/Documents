@@ -11,8 +11,8 @@ total_times = {}
 for time_entry in times:
     [initials, time_range, _] = time_entry.split("; ")
     [start, end] = time_range.split("-")
-    start = time.strptime(start, "%H.%M")
-    end = time.strptime(end, "%H.%M")
+    start = time.strptime(start, "%H:%M")
+    end = time.strptime(end, "%H:%M")
     total_time = time.mktime(end) - time.mktime(start)
     for char in initials:
         total_times.update({char: total_times.get(char, 0) + total_time})
