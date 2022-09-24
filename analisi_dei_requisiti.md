@@ -21,15 +21,18 @@ L'obiettivo di questo documento è quello di:
 
 # Obiettivi del progetto
 
-Il progetto ha come obiettivo la realizzazione di un sito web <!-- multipiattaforma (?) --> in grado di gestire menù, ordinazioni e prenotazioni dei tavoli di quei ristoranti che aderiscono.
+Il progetto ha come obiettivo la realizzazione di un sito web per l'ordinazione di cibo take away, in grado di gestire menù, dettagli e le prenotazioni degli ordini di quei ristoranti che aderiscono.
 Nello specifico <!-- NOME PROGETTO --> deve permettere i seguenti scenari:
 
-- Visualizzare i ristoranti e ordinarli in base alle preferenze dell'utente. In particolare possono essere suddivisi in base al nome, luogo o tipologia. Si può anche ricercare direttamente il nome del ristorante che si vuole visualizzare;
-- Autenticazione con Google, con domini unitn c'e' la possibilita' di applicare uno sconto studente;
+- Visualizzare i ristoranti e ordinarli in base alle preferenze dell'utente. In particolare possono essere suddivisi in base al nome o alla tipologia. Si può anche ricercare direttamente il nome del ristorante che si vuole visualizzare o tutti i ristoranti in una determinata zona;
+- Autenticazione con Google, con dominio unitn c'e' la possibilita' di applicare uno sconto studente;
 - Visualizzare su ogni ristorante una piccola descrizione contenente orari di apertura, indirizzo, numero di telefono e menù;
-- Lasciar visualizzare all'utente anonimo le informazioni base di ogni ristornate. Per la prenotazione online dei tavoli è obbligatorio essere registrati;
+- Lasciar visualizzare all'utente anonimo la descrizione di ogni ristornate. Per la prenotazione online del cibo è obbligatorio essere registrati;
+- È possibile una modifica parziale agli ingredienti così da venir incontro ai fabbisogni dei clienti con allergie;
 - I responsabili del ristorante devono autenticarsi con un login dedicato a loro, così da ricevere le ordinazioni;
-- Per quei ristoranti che lo permettono ordinare cibi dal proprio menù con ritiro in loco. È possibile una modifica parziale agli ingredienti così da venir incontro ai fabbisogni dei clienti con allergie.
+- Gestione del carrello per un'eventuale modifica dell'ordine;
+- Opzionale: pagamento online (per adesso alla consegna);
+- Creare una pagina per i ristoranti preferiti.
 
 # Requisiti Funzionali
 

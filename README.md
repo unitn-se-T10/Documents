@@ -60,3 +60,5 @@ Sito web panini (RistoTN Web):
 - Se sei loggato e premi il panino ti manda al carrello
 - Se sei loggato e premi custom -> Menù di custom
 - No registrazione -> Direttamente con login Google
+- Allergie e parte cibi ecosostenibili
+- Richiesta del luogo per effettuare la ricerca
