@@ -6,8 +6,8 @@ Ore:
 
 Alessandro Sartore:
 
-Svolto:
-Ore:
+Svolto: Creazione analisi dei requisiti
+Ore: 9:55 - 11:02
 
 
 Luca Tecchio:
