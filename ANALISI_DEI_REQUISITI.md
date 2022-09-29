@@ -36,8 +36,10 @@ Nello specifico <!-- NOME PROGETTO --> deve permettere i seguenti scenari:
 
 ## 3. Requisiti Funzionali
 
-- Il progetto dovrà essere un sito web compatibile con i browser più comuni per desktop e dispositivi mobili (Google Chrome, Firefox, Safari, etc.);
+<!-- - Il progetto dovrà essere un sito web compatibile con i browser più comuni per desktop e dispositivi mobili (Google Chrome, Firefox, Safari, etc.); -->
+
 - Il sistema di autenticazione funziona tramite "Autenticazione con Google" (account "@gmail.com" e "@studenti.unitn.it")
+- Navigazione e calcolo della distanza con Google Maps
 - Gli utenti si suddividono in 3 categorie:
 
   - _Utente anonimo_: può visualizzare i ristoranti con i rispettivi dettagli e menù
@@ -64,7 +66,12 @@ Nello specifico <!-- NOME PROGETTO --> deve permettere i seguenti scenari:
 
 ## 4. Requisiti Non Funzionali
 
-<!-- I requisiti non funzionali sono tutte quelle caratteristiche del software non richieste dal cliente, ma che influenzano pesantemente il lavoro degli sviluppatori, poiché non descrivono cosa, ma come il sistema fa ad eseguire certi compiti -->
+- Privacy: il sito deve rispettare la normativa GDPR
+- Sicurezza: non vengono salvate password (perché viene usata l'autenticazione con Google), il sito deve essere https
+- Scalabilità: il sito deve permettere la continua aggiunta e aggiornamento dei ristoranti
+- Compatibilità: il sito deve essere compatibile con le ultime versioni dei browser più popolari (Google Chrome, Firefox, Safari, etc.), sia desktop che mobile
+- Usabilità: l'utente deve essere in grado di usufruire di ogni funzionalità del sito in modo efficace e pratico (senza perdere tempo)
+- Disponibilità: l'applicazione deve essere in grado di svolgere le proprie funzioni in un determinato lasso di tempo
 
 ## 5. Front-End
 
