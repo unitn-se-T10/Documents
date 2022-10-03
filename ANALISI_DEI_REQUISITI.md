@@ -77,9 +77,29 @@ Nello specifico <!-- NOME PROGETTO --> deve permettere i seguenti scenari:
 
 Nel seguente paragrafo vengono riportati alcune schermate del sito web da realizzare. Queste schermate hanno l'obiettivo di rappresentare come il sito web si dovrà presentare all'utente finale nel caso dei segueti rerquisiti funzionali descritti precedentemente:
 - Schermata di autenticazione;
-- Schermata con tutti i ristoranti
-- Schermata del singolo ristorante
-- Schermata del carrello
-
+- Schermata con tutti i ristoranti;
+- Schermata del singolo ristorante;
+- Schermata del carrello;
+- Schermata dei ristoranti preferiti.
 
 ## 6. Back-End
+
+Nel paragrafo corrente vengono riportati i sistemi esterni con cui il sito web dovrà interfacciarsi per poter funzionare e una loro descrizione.
+
+I sistemi con cui <!-- NOME PROGETTO --> dovrà interfacciarsi sono i seguenti:
+- Servizi di geolocalizzazione 
+- Autenticazione con Google
+- Database con MongoDB 
+- API recensioni Google
+
+### Servizi di geolocalizzazione
+Utilizzo dei servizi di geolocalizzazione offerti da Google
+
+### Autenticazione con Google
+Autenticazione via pagina di Google con possibilità di usufruire del dominio UNITN
+
+### Database con MOngoDB
+....
+
+### API recensioni Google
+....
