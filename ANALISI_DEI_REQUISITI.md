@@ -75,4 +75,11 @@ Nello specifico <!-- NOME PROGETTO --> deve permettere i seguenti scenari:
 
 ## 5. Front-End
 
+Nel seguente paragrafo vengono riportati alcune schermate del sito web da realizzare. Queste schermate hanno l'obiettivo di rappresentare come il sito web si dovrà presentare all'utente finale nel caso dei segueti rerquisiti funzionali descritti precedentemente:
+- Schermata di autenticazione;
+- Schermata con tutti i ristoranti
+- Schermata del singolo ristorante
+- Schermata del carrello
+
+
 ## 6. Back-End
