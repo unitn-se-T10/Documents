@@ -10,6 +10,8 @@ def get_minutes(start, end):
     [sh, sm] = start.split(":")
     [eh, em] = end.split(":")
     minutes = (int(eh) - int(sh)) * 60 + (int(em) - int(sm))
+    if minutes < 0:
+        minutes += 24 * 60
     return minutes
 
 
