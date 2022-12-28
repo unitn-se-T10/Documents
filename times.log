@@ -65,3 +65,5 @@ B; 16:30-19:30; Back end + FE API impl
 T; 20:00-22:30; Figma Front End
 S; 8:50-12:15; Front End Modifica profilo, email, password, Gestione dei ristoranti: aggiunta da fare, elimina da correggere l'implementazione
 S; 15:50-18:55; Front End aggiungi ristorante  
+S; 8:55-10:00; Front End aggiunta preferiti
+ST; 10:00-12:00; Front End refactoring
