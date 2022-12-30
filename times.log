@@ -78,3 +78,5 @@ T; 15:00-16:00; Revisione D1
 ST; 16:00-19:30; Front End differenze tra gestore e utente
 S; 20:00-23:30; Front End refactory + Db add
 T; 22:00-23:30; Revisione Deliverables
+B; 22:30-00:10; Revisione Back End + Caricamento sito su Vercell
+S; 9:45-12:00; API refactoring + Fill db
