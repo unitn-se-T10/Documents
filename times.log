@@ -77,6 +77,9 @@ S; 11:00-12:00; yupSchema upload, aggiungiristoranti form modified
 T; 15:00-16:00; Revisione D1
 ST; 16:00-19:30; Front End differenze tra gestore e utente
 S; 20:00-23:30; Front End refactory + Db add
-T; 22:00-23:30; Revisione Deliverables
+T; 22:00-00:00; Revisione Deliverables
 B; 22:30-00:10; Revisione Back End + Caricamento sito su Vercell
 S; 9:45-12:00; API refactoring + Fill db
+T; 9:45-12:00; Revisione Deliverables
+S; 15:30-19:00; Aggiunte pagina ordine e recupero password + Back End
+T; 15:15-19:00; Revisione Deliverables
