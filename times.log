@@ -85,3 +85,5 @@ S; 15:30-19:00; Aggiunte pagina ordine e recupero password + Back End
 T; 15:15-19:00; Revisione Deliverables
 S; 20:30-23:30; DB filling + Revisione Front End
 T; 21:00-00:00; Revisione Deliverables
+B; 23:45-02:00; Bug fixes sul front end e back end
+S; 9:15-12:10; DB filling + Fixed Tab names
