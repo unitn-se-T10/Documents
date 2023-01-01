@@ -14,9 +14,10 @@ ST; 14:05-15:15; Revisione PDF
 T; 15:15-16:00; Revisione PDF
 BST; 16:15-19:10; Revisione PDF e upload requisito
 S; 9:05-10:40; Revisione PDF
+S; 10:40-11:30; Traduzione requisiti funzionali
 BST; 15:15-17:55; Traduzione requisiti non funzionali
 S; 15:15-16:40; Revisione requisiti non funzionali
-BS; 15:15-17:15; Revisione RNF, use case schemas
+BS; 15:15-17:15; Use case diagram
 BST; 10:50-12:15; Analisi contesto
 S; 9:55-10:40; Traduzione casi d'uso
 BST; 10:40-12:30; Traduzione casi d'uso + Analisi del contesto
@@ -69,7 +70,7 @@ S; 8:55-10:00; Front End aggiunta preferiti
 ST; 10:00-12:00; Front End refactoring
 BST; 16:00-17:00; Front End + Back End
 ST; 17:00-18:00; Revisione D1
-BST; 18:00-19:15; Front End + Revisione D1
+BST; 18:00-19:20; Front End + Revisione D1
 T; 21:30-00:00; Revisione D1
 B; 18:30-20:15; Front End + Back End
 B; 21:30-1:40; Back End + Vercell primo caricamento
@@ -88,3 +89,5 @@ T; 21:00-00:00; Revisione Deliverables
 B; 23:45-02:00; Bug fixes sul front end e back end
 S; 9:15-12:10; DB filling + Fixed Tab names
 S; 14:30-18:30; Revisione Deliverables + Creazione e stesura D5
+S; 14:15-16:45; Stesura D4 e D5
+BST; 16:45-19:45; Bug Fixes e stesura D4 e D5
