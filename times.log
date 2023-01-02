@@ -10,10 +10,10 @@ BST; 9:45-12:10; Front-End e Back-End
 S; 18:00-19:00; Creazione PDF analisi dei requisiti
 S; 20:05-20:55; Continuo del PDF
 S; 9:30-10:25; Conclusione PDF
-ST; 14:05-15:15; Revisione PDF
-T; 15:15-16:00; Revisione PDF
-BST; 16:15-19:10; Revisione PDF e upload requisito
-S; 9:05-10:40; Revisione PDF
+ST; 14:05-15:15; Revisione D1
+T; 15:15-16:00; Revisione D1
+BST; 16:15-19:10; Revisione D1 e upload requisito
+S; 9:05-10:40; Revisione D1
 S; 10:40-11:30; Traduzione requisiti funzionali
 BST; 15:15-17:55; Traduzione requisiti non funzionali
 S; 15:15-16:40; Revisione requisiti non funzionali
@@ -97,3 +97,6 @@ BST; 22:00-23:30; Stesura D4
 BT; 23:30-1:00; Stesura D4 + D5
 B; 1:00-2:00; Stesura D4 + D5
 ST; 10:30-12:10; Revisione Resources Model
+BST; 15:30-17:45; Stesura D4
+BST; 17:45-19:00; Stesura Criticità D5 + Testing D4
+B; 19:00-; Testing e deployment progetto
